@@ -22,3 +22,15 @@ This project automates the extraction and processing of data from commercial inv
 
 ## Business Value
 This tool reduces manual data entry, improves accuracy, and speeds up reporting workflows in supply chain operations.
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Place PDF files in the project folder
+
+3. Run the script:
+   python src/pdf_processor.py
+
+## Sample Data
+Example PDF files are available in the `sample_data/` folder for testing purposes.
